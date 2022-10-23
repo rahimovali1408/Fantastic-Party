@@ -1,0 +1,60 @@
+body {
+     font-family: sans-serif;
+}
+
+ header  {
+     padding: 45px;
+     background: blue;
+ } 
+
+ header img {
+     margin-right: 24px;
+ }
+
+ header b {
+     font-size: 30px;
+     background-color:blueviolet;
+ } 
+
+ header a {
+     color: blue	;
+     margin: 50px;
+     border: 1px solid blue	;
+     padding: 12px;
+     background-color: #DEB887;
+     text-decoration: burlywood;
+ }
+
+main h1 {
+     text-align: center;
+     border: 10px dashed blue;
+     padding: 20px;
+ }
+
+ footer {
+     padding: 35px;
+     border:5px solid brown;
+    
+ }
+
+ footer a {
+     border:5px solid coral;
+     padding: 5px;
+ }
+
+ nav {
+     padding: 5px;
+     border: 5px dashed #8B4513	;
+    ;
+}
+
+.production {
+     border: 15px solid blue;
+     border-radius:15px;
+     padding: 15px;
+    
+}
+
+h2 {
+     border:15px  blue ;
+     }
